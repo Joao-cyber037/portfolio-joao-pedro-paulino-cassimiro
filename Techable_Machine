@@ -27,9 +27,10 @@ O experimento demonstrou que, embora o modelo atinja alta precisão dentro do am
 * *Mitigação (Human-in-the-loop):* A estratégia proposta envolve a revisão humana de amostras e a ampliação contínua do banco de dados com novas variações para garantir consistência e precisão.
 
 ## 🔧 Como Executar
+==========================================================================================================================
 1.  Acesse o link oficial do modelo: [Teachable Machine Project](https://teachablemachine.withgoogle.com/models/LNoICw4p5/).
 2.  Permita o acesso à sua webcam no navegador.
 3.  Posicione uma peça de roupa (clara ou escura) em frente à câmera para visualizar a predição e a barra de confiança do sistema.
-
+==========================================================================================================================
 ---
 *Desenvolvedores:* João Pedro Paulino Cassimiro e Vinicius Paes landim dias.
