@@ -40,8 +40,9 @@ Atualmente cursando o [1º] período de [Ciência da computação] na [Universid
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **A corrida do Prompt** | Um desafio para criar a imagem que eu queria perfeitamente como eu pedi em apenas 5 prompts | [Ver Projeto](https://docs.google.com/document/d/1zkVC5Jdh9okEiR6r17KrEnhadPiksmVgiGnk9WA8E2A/edit?usp=sharing) |
+| **A corrida do Prompt** | Um desafio para criar a imagem que eu queria perfeitamente como eu pedi em apenas 5 prompts | [Ver Projeto](A_Corrida_do_prompt.pdf) |
 | **Techable Machine** | Ensinando a IA a diferenciar condições atraves da comparação de imagens, neste caso a ensinamos a diferenciar camisas escuras de camisas claras | [Ver Projeto](Techable_Machine)
+
 ---
  
 ### 🏗 Estrutura do Repositório
