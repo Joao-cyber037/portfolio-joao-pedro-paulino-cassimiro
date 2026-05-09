@@ -25,7 +25,6 @@ Atualmente cursando o [1º] período de [Ciência da computação] na [Universid
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/C#-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![C#](https://shields.io)
 #### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
  
