@@ -39,10 +39,4 @@ Para superar a ferramenta de referência original e agregar valor real ao usuár
 ---
 
 ## 🔧 Como Executar a Aplicação
-1. Certifique-se de ter as credenciais do Firebase configuradas no arquivo de ambiente local.
-2. Clone este repositório no seu ambiente de desenvolvimento.
-3. Abra o arquivo index principal ou execute o deploy local através do Firebase CLI:
-   ```bash
-   npm install -g firebase-tools
-   firebase login
-   firebase serve
+https://ai.studio/apps/3bb9ad36-ea0c-44d3-bbc3-964e60b1331c
