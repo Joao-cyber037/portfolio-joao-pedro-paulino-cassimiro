@@ -40,10 +40,10 @@ Atualmente cursando o [1º] período de [Ciência da computação] na [Universid
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **A corrida do Prompt** | Um desafio para criar a imagem que eu queria perfeitamente como eu pedi em apenas 5 prompts | [Ver Projeto](A_Corrida_do_prompt.pdf) |
-| **Techable Machine** | Ensinando a IA a diferenciar condições atraves da comparação de imagens, neste caso a ensinamos a diferenciar camisas escuras de camisas claras | [Ver Projeto](Techable_Machine)
-| **Batalha de Modelos & Engenharia de Prompts** | Usamos varias IAs diferentes para montar o mesmo site usando o mesmo prompt e comparamos o resultado de cada uma | [Ver Projeto](Batalha_de_Modelos_&_Engenharia_de_Prompt.pdf)
-| **Engenharia Reversa** | usamos engenharia reversa para reecriar um site usando IA | [Ver Projeto](Engenharia_Reversa)
+| **A corrida do Prompt** | Um desafio para criar a imagem que eu queria perfeitamente como eu pedi em apenas 5 prompts | [Ver Projeto](a-corrida-do-prompt) |
+| **Techable Machine** | Ensinando a IA a diferenciar condições atraves da comparação de imagens, neste caso a ensinamos a diferenciar camisas escuras de camisas claras | [Ver Projeto](techable-machine)
+| **Batalha de Modelos & Engenharia de Prompts** | Usamos varias IAs diferentes para montar o mesmo site usando o mesmo prompt e comparamos o resultado de cada uma | [Ver Projeto](batalha-de-modelos-e-engenharia-de-prompt)
+| **Engenharia Reversa** | usamos engenharia reversa para reecriar um site usando IA | [Ver Projeto](engenharia-reversa)
 
 ---
  
