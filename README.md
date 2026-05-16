@@ -44,7 +44,7 @@ Atualmente cursando o [1º] período de [Ciência da computação] na [Universid
 | **Techable Machine** | Ensinando a IA a diferenciar condições atraves da comparação de imagens, neste caso a ensinamos a diferenciar camisas escuras de camisas claras | [Ver Projeto](techable-machine)
 | **Batalha de Modelos & Engenharia de Prompts** | Usamos varias IAs diferentes para montar o mesmo site usando o mesmo prompt e comparamos o resultado de cada uma | [Ver Projeto](batalha-de-modelos-e-engenharia-de-prompt)
 | **Engenharia Reversa** | usamos engenharia reversa para reecriar um site usando IA | [Ver Projeto](engenharia-reversa)
-
+| **ILoveQR** | Gerador de QR Code inteligente com IA e Firebase. | [Ver Projeto]() |
 ---
  
 ### 🏗 Estrutura do Repositório
