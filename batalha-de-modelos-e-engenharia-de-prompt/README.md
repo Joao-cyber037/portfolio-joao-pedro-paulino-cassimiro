@@ -19,4 +19,6 @@ O desempenho de cada modelo foi catalogado de acordo com critérios rigorosos de
 
 ***Modelo de Destaque:*** O Claude demonstrou a melhor interpretação das tags XML. O modelo enriqueceu o ambiente visual e manteve a integridade estrutural do código sem apresentar falhas de execução, consolidando-se como a ferramenta ideal para o desenvolvimento de códigos complexos e prototipagem robusta.
 
+https://drive.google.com/file/d/1vz9489RdR-HwvYvI7WjZiHyd73OVqIDG/view?usp=sharing
+
 [Voltar ao início](../README.md)
